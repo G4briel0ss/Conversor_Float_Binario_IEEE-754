@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
+
+// Conversor de Floar para Binario IEEE-754
 class Conversor
 {
     //Recebendo Valor 
