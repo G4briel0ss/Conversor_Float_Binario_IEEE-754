@@ -1,0 +1,5 @@
+G:\Meu Drive\Faculdade\Arquetetura de computadores\ArquiteturaDeComputadores\obj\Debug\net6.0\FloatBinarioIEEE754.csproj.AssemblyReference.cache
+G:\Meu Drive\Faculdade\Arquetetura de computadores\ArquiteturaDeComputadores\obj\Debug\net6.0\FloatBinarioIEEE754.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Faculdade\Arquetetura de computadores\ArquiteturaDeComputadores\obj\Debug\net6.0\FloatBinarioIEEE754.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\Arquetetura de computadores\ArquiteturaDeComputadores\obj\Debug\net6.0\FloatBinarioIEEE754.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\Arquetetura de computadores\ArquiteturaDeComputadores\obj\Debug\net6.0\FloatBinarioIEEE754.csproj.CoreCompileInputs.cache
